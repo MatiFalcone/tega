@@ -1,0 +1,19 @@
+{
+  "name": "tega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiFalcone/tega.git"
+  },
+  "author": "Matias Falcone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiFalcone/tega/issues"
+  },
+  "homepage": "https://github.com/MatiFalcone/tega#readme"
+}
